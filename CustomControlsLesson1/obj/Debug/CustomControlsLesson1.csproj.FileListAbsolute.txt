@@ -1,0 +1,11 @@
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\bin\Debug\CustomControlsLesson1.dll
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\bin\Debug\CustomControlsLesson1.pdb
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.csprojAssemblyReference.cache
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.csproj.GenerateResource.cache
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.dll
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.pdb
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.ucSelectColor.resources
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.ucLabelAndTextbox.resources
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.ucSeriesOfLabelAndTextboxes.resources
+C:\Users\Gabrielle\Source\Repos\CustomControlsLesson1\CustomControlsLesson1\obj\Debug\CustomControlsLesson1.ucSingleLabelAndTextbox.resources

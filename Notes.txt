@@ -1,0 +1,26 @@
+Custom User Controls and Events in C# 
+(Parts 1 and 2)
+by Andrew Comeau on Youtube
+Red'd Oct 2018. Watched July 2021.
+
+Step one - create a class library as its own project for the custom controls
+(specifically a Windows Forms Class Library).
+Two - make the custom user controls.
+This one is a color creator with three sliders.
+Add whatever you need - here, labels, sliders and a panel with BackColor.
+UCs won't run by themselves. So...
+Three - create a Windows Forms App, set it as the start project.
+Four - build, so the toolbox sees the new custom UCs.
+Five - dragdrop your UC onto a form.
+Six - start the app, play with your UC in the form!
+
+The one you followed along with was SelectColor on ColorPickerTestingForm.
+The rest are yours.
+
+Part 2 - adding custom events.
+
+Part 1 made a control that changes stuff in the UI.
+But the rest of the app doesn't know about those changes.
+Part 2 adds properties to the user control,
+and an event that the host app can listen to.
+So when events happen in the UI, the other parts know about it too.
